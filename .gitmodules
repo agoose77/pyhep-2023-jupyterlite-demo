@@ -1,0 +1,3 @@
+[submodule "extern/uproot5"]
+	path = extern/uproot5
+	url = git@github.com:scikit-hep/uproot5
