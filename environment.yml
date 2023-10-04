@@ -9,7 +9,4 @@ dependencies:
   - numpy
   - matplotlib-base
   - mplhep
-#  - uproot-base
-  - pip:
-    - extern/uproot5
-
+  - uproot-base >=5.0.12

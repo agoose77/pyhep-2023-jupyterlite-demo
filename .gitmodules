@@ -1,3 +1,0 @@
-[submodule "extern/jupyterlab-deck"]
-	path = extern/jupyterlab-deck
-	url = git@github.com:bollwyvl/jupyterlab-deck.git
