@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -eu
+
+OVERRIDES="$(jupyter --data-dir)/lab/settings/"
+mkdir -p ${OVERRIDES}
+cp ../overrides.json ${OVERRIDES}
