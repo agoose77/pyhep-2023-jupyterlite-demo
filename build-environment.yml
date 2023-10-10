@@ -6,7 +6,7 @@ dependencies:
   - pip
   - jupyter_server
   - jupyterlab
-  - jupyterlab-myst >=2.0.2
+  - jupyterlab-myst >=2.1.0
   - pip:
       - jupyterlite-core >=0.2.0a0,<0.3.0
       - jupyterlite-xeus-python >=1.0.0a0,<2.0.0
