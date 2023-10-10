@@ -3,11 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python =3.10
-  - pip
-  - pip:
-      - ../extern/jupyterlab_deck-0.4.0a0-py3-none-any.whl
   - jupyterlab
-  - jupyterlab-myst >=2.1.0
   # Kernel
   - awkward >=2.4.0
   - hist-base
