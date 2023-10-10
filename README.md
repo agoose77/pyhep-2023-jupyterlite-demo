@@ -1,4 +1,4 @@
-# PyHEP 2023 JupyterLite demo
+# PyHEP 2023 JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://agoose77.github.io/pyhep-2023-jupyterlite-demo/lab/index.html?path=demo.ipynb)
 
