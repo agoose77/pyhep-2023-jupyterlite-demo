@@ -7,7 +7,7 @@ dependencies:
   - jupyterlab
   - jupyterlab-myst >=2.1.0
   - pip:
-      - ./extern/jupyterlab_deck-0.4.0a0-py3-none-any.whl
+      - ../extern/jupyterlab_deck-0.4.0a0-py3-none-any.whl
   # Kernel
   - awkward >=2.4.0
   - hist-base
