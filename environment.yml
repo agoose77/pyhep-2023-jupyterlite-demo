@@ -7,6 +7,6 @@ dependencies:
   - hist-base
   - vector
   - numpy
-  - matplotlib-base
+  - matplotlib-base>=3.8.0
   - mplhep
   - uproot-base >=5.0.12
