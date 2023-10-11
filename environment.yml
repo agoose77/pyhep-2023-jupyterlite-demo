@@ -4,9 +4,9 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - awkward >=2.4.0
-  - hist-base ==2.7.2
-  - vector ==1.1.1.post1
-  - numpy ==1.25.2
-  - matplotlib-base ==3.8.0
-  - mplhep ==0.3.30
-  - uproot-base ==5.0.12
+  - hist-base =2.7.2
+  - vector =1.1.1.post1
+  - numpy =1.25.2
+  - matplotlib-base =3.5.2
+  - mplhep =0.3.28
+  - uproot-base =5.0.12
